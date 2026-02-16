@@ -1,6 +1,6 @@
 ---
 name: coding-agent
-description: Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.
+description: Run Kilo Code CLI, QODER CLI, Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.
 metadata:
   {
     "openclaw": { "emoji": "🧩", "requires": { "anyBins": ["claude", "codex", "opencode", "pi"] } },
