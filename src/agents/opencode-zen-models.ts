@@ -156,7 +156,7 @@ const MODEL_CONTEXT_WINDOWS: Record<string, number> = {
   "gpt-5.1-codex-mini": 400000,
   "gpt-5.1": 400000,
   "glm-4.7": 204800,
-  "glm-5-free": 200000,
+  "glm-5-free": 204800,
   "gemini-3-flash": 1048576,
   "gpt-5.1-codex-max": 400000,
   "gpt-5.2": 400000,
